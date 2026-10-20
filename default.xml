@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin" fetch="git@github.com:z-rong/" />
-  <default revision="master" remote="origin" />
+  <default revision="main" remote="origin" />
 
   <project path="ohscrcpy" name="ohscrcpy" />
   <project path="workspace" name="workspace" />
