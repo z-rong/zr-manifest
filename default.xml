@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="git@github.com:z-rong/" />
+  <default revision="master" remote="origin" />
+
+  <project path="resource" name="resource" />
+  <project path="workspace" name="workspace" />
+</manifest>
