@@ -3,6 +3,6 @@
   <remote name="origin" fetch="git@github.com:z-rong/" />
   <default revision="master" remote="origin" />
 
-  <project path="resource" name="resource" />
+  <project path="ohscrcpy" name="ohscrcpy" />
   <project path="workspace" name="workspace" />
 </manifest>
