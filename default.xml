@@ -4,5 +4,6 @@
   <default revision="main" remote="origin" />
 
   <project path="ohscrcpy" name="ohscrcpy" />
+  <project path="task" name="taskManager" />
   <project path="workspace" name="workspace" />
 </manifest>
