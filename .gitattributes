@@ -1,0 +1,4 @@
+# Keep shell scripts and manifests LF-only: bash on Windows (Git Bash)
+# breaks on CRLF, so these must never be converted on checkout.
+*.sh text eol=lf
+*.xml text eol=lf
