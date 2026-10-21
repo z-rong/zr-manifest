@@ -6,4 +6,7 @@
   <project path="ohscrcpy" name="ohscrcpy" />
   <project path="task" name="taskManager" />
   <project path="workspace" name="workspace" />
+  <project path="docs" name="docs" />
+  <project path="lfs" name="lfs" revision="master" />
+  <project path="ohos" name="ohos" />
 </manifest>
